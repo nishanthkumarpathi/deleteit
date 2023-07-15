@@ -1,11 +1,8 @@
 # Table of contents
 
-* [Setup](README.md)
-* [Base: Traefik Proxy](base-traefik-proxy.md)
-* [Staging: Traefik Proxy](staging-traefik-proxy.md)
-* [Bootstrap Staging](bootstrap-staging.md)
-* [Managing Flux](managing-flux.md)
-* [Deploy the Application](deploy-the-application.md)
-* [Deploy Cert Manager](deploy-cert-manager.md)
-* [Secure the Application](secure-the-application.md)
-* [Deploy to Production](deploy-to-production.md)
+* [Access the Dashboard With Port Forwarding](README.md)
+* [Set Your Cluster's IP in a Variable](set-your-clusters-ip-in-a-variable.md)
+* [Secure the Dashboard With Middleware](secure-the-dashboard-with-middleware.md)
+* [Migrate From Ingress to IngressRoute](migrate-from-ingress-to-ingressroute.md)
+* [Secure the Dashboard With TLS](secure-the-dashboard-with-tls.md)
+* [Customize Traefik With the HelmChart Custom Resource](customize-traefik-with-the-helmchart-custom-resource.md)
